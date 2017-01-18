@@ -1,14 +1,14 @@
-import java.util.Scanner;
+
 
 
 public class SampleTEst {
 
 	
 	public static void main(String[] args) {
-		Scanner sc =  new Scanner(System.in);
-		sc.nextLine();
+		
 		
 		System.out.println("sys");
+		System.out.println("LAVANYAKUMAR");
 
 	}
 
