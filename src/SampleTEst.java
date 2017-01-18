@@ -11,6 +11,7 @@ public class SampleTEst {
 		System.out.println("LAVANYAKUMAR");
 		System.err.println("sunil");
 		System.out.println("Vinay");
+		System.out.println("vijay");
 
 	}
 
