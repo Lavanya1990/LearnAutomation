@@ -8,7 +8,7 @@ public class SampleTEst {
 		Scanner sc =  new Scanner(System.in);
 		sc.nextLine();
 		
-		
+		System.out.println("sys");
 
 	}
 
